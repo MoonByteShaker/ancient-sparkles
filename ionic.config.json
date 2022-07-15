@@ -1,0 +1,7 @@
+{
+  "name": "ancient-sparkles",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
